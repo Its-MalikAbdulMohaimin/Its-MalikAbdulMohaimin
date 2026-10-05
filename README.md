@@ -1,16 +1,18 @@
-## Hi there 👋
+# ⚡ Malik Abdul Mohaimin
 
-<!--
-**Its-MalikAbdulMohaimin/Its-MalikAbdulMohaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 17-year-old Agentic AI & Backend Engineer building autonomous agent systems, robust tool integrations, and evaluated retrieval pipelines from scratch.
 
-Here are some ideas to get you started:
+💻 Tech & Tooling
+🐍 Languages: Python (Async, Typing, Pydantic), SQL
+🌐 Backend & APIs: FastAPI, REST APIs, HTTPX
+🤖 Agents & Standards: LangGraph, Model Context Protocol (MCP), Anthropic & OpenAI APIs
+🗄️️ Data & Vectors: PostgreSQL, pgvector, SQLite, Qdrant, Pinecone
+📊 Evals & Testing: Pytest, Langfuse, LangSmith, LLM-as-judge harnesses
+⚙️ DevOps & Tools: Docker, Linux CLI, Git, GitHub, uv
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Focus Areas
+🔄 Agent Loops: Scratch-built ReAct loops, planning, and multi-agent systems
+🔌 Tool Use & MCP: Custom MCP servers, schema validation, and tool execution
+🔍 RAG: Hybrid search (BM25 + vectors), custom chunking, and reranking
+📈 Reliability: Trajectory evaluations, latency/cost tuning, and security guardrails
+📦 Shipping: Containerized deployment, sandboxing, and CI/CD pipeliness
